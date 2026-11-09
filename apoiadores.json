@@ -1,5 +1,6 @@
 {
   "apoiadores": [
-    { "nome": "Adrian Bellezzo Medeiros", "valor": 10 }
+    { "nome": "Adrian Bellezzo Medeiros", "valor": 10 },
+    { "nome": "Gabriel Faustino dos Santos", "valor": 0,67 }
   ]
 }
